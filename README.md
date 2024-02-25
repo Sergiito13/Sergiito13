@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, yo soy Sergio Leal Priere</h1>
+<h1 align="center">Hi 👋, soy Sergio Leal Priere</h1>
 <h3 align="center">Apasionado desarrollador fullstack de Canarias, con conocimientos en Administrador de sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiito13&label=Vistas%20del%20perfil&color=60c367&style=flat" alt="sergiito13" /> </p>
