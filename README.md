@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sergiito13" target="blank"><img src="https://img.shields.io/twitter/follow/sergiito13?logo=twitter&style=for-the-badge" alt="sergiito13" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **PokemonApi**
+- 🔭 Trabajos realizados para empresas (ya publicados): **[Fundacion Solidaridad La Palma](https://www.fundacionsolidaridadlapalma.org/)**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Sergiito13](https://github.com/Sergiito13)
 
