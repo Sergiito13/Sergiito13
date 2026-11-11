@@ -1,36 +1,231 @@
-<h1 align="center">Hi 👋, soy Sergio Leal Priere</h1>
-<h3 align="center">Apasionado desarrollador fullstack de Canarias, con conocimientos en Administrador de sistemas</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiito13&label=Vistas%20del%20perfil&color=60c367&style=flat" alt="sergiito13" /> </p>
+# SERGIO LEAL PRIERE
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiito13" alt="sergiito13" /></a> </p>
+### Full Stack Developer · Software Engineering · DevOps
 
-<p align="left"> <a href="https://twitter.com/sergiito13" target="blank"><img src="https://img.shields.io/twitter/follow/sergiito13?logo=twitter&style=for-the-badge" alt="sergiito13" /></a> </p>
+Building software. Solving problems. Exploring technology.
 
-- 🔭 Trabajos realizados para empresas (ya publicados): **[Fundacion Solidaridad La Palma](https://www.fundacionsolidaridadlapalma.org/)**
+<br>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Sergiito13](https://github.com/Sergiito13)
+<img src="https://img.shields.io/badge/LOCATION-CANARY%20ISLANDS%2C%20SPAIN-6366F1?style=for-the-badge&labelColor=161B22" alt="Location"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-8B5CF6?style=for-the-badge&labelColor=161B22" alt="Focus"/>
 
-- 📫 Cómo contactarme **sergioleal1313@gmail.com**
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sergiito13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sergiito13" height="30" width="40" /></a>
-<a href="https://dev.to/sergiito13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sergiito13" height="30" width="40" /></a>
-<a href="https://twitter.com/sergiito13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergiito13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergio-leal-priere-0aba26243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-leal-priere-0aba26243" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23023529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23023529" height="30" width="40" /></a>
-<a href="https://kaggle.com/sergiolealpriere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sergiolealpriere" height="30" width="40" /></a>
-<a href="https://fb.com/sergio.lealpriere.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergio.lealpriere.3" height="30" width="40" /></a>
-<a href="https://instagram.com/sergiito1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergiito1313" height="30" width="40" /></a>
-<a href="https://www.behance.net/sergiolealpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sergiolealpr" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/sergio-leal-priere-0aba26243">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sergioleal1313@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Sergiito13">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiito13&show_icons=true&theme=dracula&title_color=60c367&bg_color=000000&hide_border=true&locale=es&layout=compact" alt="sergiito13" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiito13&show_icons=true&theme=dracula&title_color=60c367&bg_color=000000&hide_border=true&cache_seconds=1800&locale=es" alt="sergiito13" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiito13&" alt="sergiito13" /></p>
+## 01 / ABOUT ME
+
+I'm **Sergio**, a Full Stack Developer based in the Canary Islands, Spain.
+
+I work across frontend, backend and infrastructure, developing web applications, building APIs and maintaining enterprise software solutions.
+
+My background in both **software development and systems administration** gives me a broader perspective on how applications are designed, deployed and maintained.
+
+I'm particularly interested in **backend engineering, software architecture, DevOps, cybersecurity and artificial intelligence**.
+
+> I enjoy understanding how things work, building practical solutions and continuously improving the way software is developed.
+
+<br>
+
+## 02 / TECH STACK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,java,spring,python&perline=7" alt="Backend technologies"/>
+
+<br>
+
+`C#` `ASP.NET` `PHP` `Laravel` `Java` `Spring Boot` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,vite&perline=7" alt="Frontend technologies"/>
+
+<br>
+
+`React` `Angular` `TypeScript` `JavaScript` `HTML` `CSS` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=7" alt="Database technologies"/>
+
+<br>
+
+`SQL Server` `MySQL` `SQLite` `Entity Framework Core`
+
+</td>
+<td width="50%" valign="top">
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,gitlab,github,bash&perline=7" alt="DevOps technologies"/>
+
+<br>
+
+`Docker` `Linux` `Nginx` `Git` `GitLab CI/CD` `Bash`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 03 / FEATURED PROJECTS
+
+Projects where I explore ideas, solve technical challenges and apply what I learn.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### PhishGuard AI
+
+**Machine Learning · Cybersecurity**
+
+An open-source phishing URL detection project using machine learning and URL feature analysis.
+
+The goal is to identify suspicious URLs through data processing, feature engineering and predictive models.
+
+**Stack**
+
+`Python` `Scikit-learn` `Machine Learning`
+
+<br>
+
+<a href="https://github.com/Sergiito13/phishguard-ai">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="PhishGuard repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### LogLens
+
+**Web Development · Log Analytics**
+
+A browser-based application for analyzing and visualizing logs without requiring server-side processing.
+
+Designed to help developers identify errors, analyze events and understand application behavior.
+
+**Stack**
+
+`React` `TypeScript` `Vite` `Web Workers`
+
+<br>
+
+<a href="https://github.com/Sergiito13/loglens">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="LogLens repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 04 / ENGINEERING EXPERIENCE
+
+My professional experience covers the development, maintenance and deployment of web-based solutions.
+
+| Area | Experience |
+|:--|:--|
+| **Software Development** | Full Stack applications, backend services and enterprise platforms |
+| **API Engineering** | REST APIs, backend integration and application architecture |
+| **Database Management** | Relational databases, SQL queries and data access |
+| **DevOps** | Docker, CI/CD pipelines and deployment automation |
+| **Infrastructure** | Linux administration, Nginx and web server configuration |
+| **Maintenance** | Debugging, troubleshooting and application improvements |
+
+<br>
+
+## 05 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sergiito13&show_icons=true&theme=transparent&title_color=818CF8&text_color=C9D1D9&icon_color=A78BFA&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiito13&layout=compact&theme=transparent&title_color=818CF8&text_color=C9D1D9&hide_border=true&langs_count=6" alt="Most used languages"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiito13&bg_color=0D1117&color=A5B4FC&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution activity"/>
+
+</div>
+
+<br>
+
+## 06 / CURRENTLY EXPLORING
+
+```text
+SOFTWARE ENGINEERING
+├── Backend Architecture
+├── Full Stack Applications
+├── API Design
+└── Clean Code & Best Practices
+
+ARTIFICIAL INTELLIGENCE
+├── Machine Learning
+├── Data Processing
+└── Practical AI Applications
+
+INFRASTRUCTURE
+├── Docker & Containerization
+├── CI/CD Automation
+├── Linux Systems
+└── DevOps Practices
+
+SECURITY
+├── Cybersecurity Fundamentals
+├── Phishing Detection
+└── Secure Software Development
+```
+
+<br>
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING
+
+I'm interested in challenging software projects, open-source collaboration and opportunities to grow as a software engineer.
+
+<br>
+
+<a href="https://linkedin.com/in/sergio-leal-priere-0aba26243">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br><br>
+
+<sub>Designed and maintained by Sergio Leal Priere</sub>
+
+</div>
